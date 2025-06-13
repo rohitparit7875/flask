@@ -8,7 +8,7 @@ WORKDIR /src
 COPY . .
 
 # export port 3000
-EXPOSE 3000
+EXPOSE 4000
 
 # install flask while building the image
 RUN pip install flask
