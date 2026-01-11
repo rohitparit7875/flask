@@ -1,0 +1,10 @@
+🌐 Flask – Quick & Clear Info
+✅ What is Flask?
+Flask is a lightweight Python web framework used to build web applications and REST APIs quickly and easily. It is known for being simple, flexible, and beginner-friendly.
+🔹 Key Features
+🧩 Micro framework – minimal core, no unnecessary components
+🚀 Fast development – easy to start with few lines of code
+🔌 Extensible – add features using extensions
+🌍 Built-in web server for testing
+🧠 Jinja2 templating for dynamic HTML
+🔐 Supports REST APIs, authentication, sessions, cookies
