@@ -1,0 +1,8 @@
+5. 📊 Log Analyzer (ELK-lite)
+ Features:
+Upload logs
+Detect errors/warnings
+Visualize trends
+Advanced:
+Regex-based parsing
+Alert triggers
