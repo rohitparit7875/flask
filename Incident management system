@@ -1,0 +1,8 @@
+2. 🚨 Incident Management System (Mini PagerDuty)
+ Features:
+Create incidents
+Assign severity (P1, P2…)
+Alert via email/Telegram
+Add-on:
+Integrate with logs or alerts
+Resume impact: 👉 Shows real SRE mindset (incident handling)
