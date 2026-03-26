@@ -1,0 +1,7 @@
+4. 📦 Docker Container Manager UI
+ Features:
+Start/Stop containers
+View logs
+Container stats
+Tech:
+Flask + Docker SDK
