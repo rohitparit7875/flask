@@ -1,0 +1,10 @@
+1. 🔍 Server Health Monitoring Dashboard
+ What it does:
+Monitor CPU, RAM, Disk, Network of servers
+Show live stats via Flask dashboard
+Tech Stack:
+Flask + psutil + Chart.js
+Optional: Docker
+Why it's 🔥 for you:
+Matches your System Admin + SRE role
+You can talk about observability & monitoring
